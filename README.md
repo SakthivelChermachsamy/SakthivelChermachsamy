@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Sakthivel C
 - 👀 I’m interested in Problem Solving 
-- 🌱 I’m currently learning BE.Mechanical
+- 🌱 I’m currently doing BE.Mechanical
 - ⚡ Fun fact: I am Good at Coding😉
